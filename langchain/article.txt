@@ -1,0 +1,25 @@
+Welcome to Wikipedia! Creating a new article is one of many ways to contribute to the encyclopedia, but can be difficult for new editors. We recommend looking at our introductory tutorials or contributing to Wikipedia to learn the basics about editing first. Working on existing articles is a great way to learn Wikipedia's protocols and style conventions; see the Task Center or your homepage for articles that need your assistance and tasks you can help out with.
+
+Before creating your first article, it's highly recommended to practice in your sandbox. Choose a topic supported by reliable, independent sources. Write in a neutral tone, avoid promotional language, and make sure all the information in the article is supported by your sources. Don't use large language models to write your articles either. If you're unsure, the Article Wizard can help guide you step-by-step through the process. Don't worry if it's not perfect—every experienced editor started with their first try!
+
+Once you are familiar with the basics of Wikipedia editing, this page will guide you through the process of creating your first article! Specifically, you will learn how to:
+
+Determine whether Wikipedia should have a new article on the given subject
+Identify and use reliable sources to support assertions in the article
+Create a draft of the article
+Submit the draft for publication into the encyclopedia itself
+The basics
+Further information: Wikipedia:Simplified ruleset, Wikipedia:Reliable sources, Wikipedia:Verifiability, Wikipedia:Citing sources, and Help:Find sources
+All new articles start by researching a topic using high-quality, published sources. Even if you're an expert on a topic, you can't just write what you know off the top of your head; published sources are needed. High-quality sources include books by reputable publishers, respected newspapers, peer-reviewed scientific and academic journals, and other sources with a reputation for fact-checking and accuracy. This may include some high-quality websites, but excludes personal and company websites, blogs, social media, and any site where the public can contribute, like forums and even Wikipedia itself.
+
+We summarize such high-quality, published sources in Wikipedia articles. That is all we do! Please make sure that everything you write on Wikipedia is based on such sources, and be sure to include inline citations along with the content you write. While primary sources can be used, they should be used sparingly and carefully, usually only to support basic facts. Primary sources do not contribute to establishing notability.
+
+Before you start writing
+
+Are you connected to the article topic?
+Further information: Wikipedia:Plain and simple conflict of interest guide and Wikipedia:Paid-contribution disclosure
+If you have a personal or professional relationship with what you want to write about, it is best if you do not create the new article yourself. Editing with a conflict of interest, regardless of whether you feel you can do so neutrally, gives the appearance of bias and undermines public confidence in Wikipedia. If you create an article despite your conflict of interest, you must disclose your relationship and make sure that it is reviewed by another editor by submitting it via Articles for creation. If you have a financial conflict of interest in the topic (for example if you have been paid to edit it) you must make the required paid-contribution disclosure and abide by the community's restrictions on paid editing.
+
+Search for an existing article
+Further information: Help:Searching
+The English Wikipedia already has 7.2 million articles. Before creating a new one, try to make sure there is not already an article (or a Draft in development) on the same topic, perhaps under a different spelling, or even a different name.
