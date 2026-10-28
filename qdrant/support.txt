@@ -1,0 +1,18 @@
+You can request a full refund within 14 days of purchase.
+To get your money back, contact our billing team through the app.
+Payments are processed securely using Stripe.
+Error ERR-4012 means the password you entered is incorrect.
+Error ERR-5003 appears when the server is under maintenance.
+If you see ERR-7781, clear the app cache and restart CloudNote.
+CloudNote Pro costs 5 dollars per month and includes unlimited storage.
+The free plan of CloudNote gives you 2 GB of storage.
+You can export all your notes as PDF or Markdown files.
+To reset your password, click "Forgot password" on the login screen.
+If you cannot log in, make sure your email address is verified.
+CloudNote syncs your notes automatically across all your devices.
+Sync may stop working if you are offline for a long time.
+Two-factor authentication can be enabled from Settings > Security.
+Our support team is available from 9 AM to 5 PM, Sunday to Thursday.
+Deleted notes stay in the Trash folder for 30 days before permanent removal.
+You can share a note with a teammate by sending them an invite link.
+CloudNote works on Windows, macOS, Android, and iOS.
